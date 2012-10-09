@@ -19,8 +19,10 @@ project and will likely be incorporated.
 * [deck.js][1]
 * [codemirror][3]
 * [markdown-js][4]
+* [backbone][5]
 
 [1]: http://imakewebthings.com/deck.js/ "Homepage for deck.js: Modern Html presentations"
 [2]: http://2012.jsconf.eu/ "Homepage for JSConf Eu 2012"
 [3]: http://codemirror.net/ "Homepage for CodeMirror: In browser code editing made bearable"
 [4]: https://github.com/evilstreak/markdown-js "Markdown-js on GitHub"
+[5]: http://backbonejs.org/ "Documenation for backbone.js"
